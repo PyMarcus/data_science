@@ -16,3 +16,10 @@ O processo de ciência de dados inclui a coleta, processamento e análise de gra
 
     Acredito que a visualização seja um dos meios mais poderosos de atingir metas pessoais.
     —Harvey Mackay
+
+
+Além disso, os campos matemáticos mais utilizados são a álgebra linear, que estuda espaços vetoriais,
+e a estatística
+
+    Os fatos são teimosos, mas as estatísticas são mais maleáveis.
+    —Mark Twain
